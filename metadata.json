@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Student Profile Extractor",
+  "description": "A tool to batch process Excel student handover forms and extract structured data using AI.",
+  "requestFramePermissions": []
+}
